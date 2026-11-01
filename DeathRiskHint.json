@@ -1,0 +1,12 @@
+{
+  "id": "DeathRiskHint",
+  "name": "Death Risk Hint",
+  "author": "Grisxxx",
+  "description": "战斗中实时判断「现在结束本回合是否会死亡」，并在结束回合按钮下方显示一行小字「死亡风险」。计算会考虑格挡、奥提斯代挡、灾厄、中毒、束缚，以及手牌里的回合结束效果卡。",
+  "version": "v1.0.0",
+  "min_game_version": "0.111.0",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}
